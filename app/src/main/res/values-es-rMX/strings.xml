@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">QizzApp</string>
+    <string name="Texto_pregunta">¿Charli Charli estás aquí?</string>
+    <string name="True_Button">Cierto</string>
+    <string name="False_Button">Falso</string>
+    <string name="Correct_toast">Correcto</string>
+    <string name="Incorrect_toast">Incorrecto</string>
+    <string name="next_button">Siguiente</string>
+    <string name="Cambio_carrera">¿Puedes cambiar de carrera en la UDG?</string>
+    <string name="Oceano">¿El oceano pasifico es tan grande como el océano atlántico?</string>
+    <string name="Rio_Nilo">¿El origen del rio Nilo esta en Egipto?</string>
+    <string name="Amlo">¿AMLO fue un buen presidente?</string>
+    <string name="trabajo">¿Tienes chamba?</string>
+    <string name="back_button">Regresar</string>
+    <string name="count">contador</string>
+    <string name="warning_text">¿Estas seguro de que quieres hacer esto?</string>
+    <string name="show_answare_button">Mostrar respuesta.</string>
+    <string name="cheat_button">Engañar.</string>
+    <string name="judgment_toast">Engañar esta mal.</string>
+</resources>

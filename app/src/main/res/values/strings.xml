@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">QizzApp</string>
+    <string name="Texto_pregunta">Charli Charli are you here</string>
+    <string name="True_Button">True</string>
+    <string name="False_Button">False</string>
+    <string name="Correct_toast">Correct!</string>
+    <string name="Incorrect_toast">Incorrect!</string>
+    <string name="next_button">Next</string>
+    <string name="Cambio_carrera">You can change your carea in the UDG?</string>
+    <string name="Oceano">The Pacific Ocean is larger than the Atlantic Ocean?</string>
+    <string name="Rio_Nilo">The source of the Nile River is in Egypt?</string>
+    <string name="Amlo">AMLO was a good president?</string>
+    <string name="trabajo">You have a job?</string>
+    <string name="back_button">come back</string>
+    <string name="count">count</string>
+    <string name="warning_text">Are you sure you want to do this?</string>
+    <string name="show_answare_button">Show Answare.</string>
+    <string name="cheat_button">Cheat</string>
+    <string name="judgment_toast">Cheating is wrong</string>
+</resources>
